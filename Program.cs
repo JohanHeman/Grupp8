@@ -8,6 +8,8 @@
 
             Console.WriteLine("hejdå");
 
+            Console.WriteLine("hejdå igen!");
+
         }
     }
 }
