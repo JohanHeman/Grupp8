@@ -8,6 +8,10 @@
 
             Console.WriteLine("hejdå");
 
+<<<<<<< HEAD
+=======
+            Console.WriteLine("hejdå igen!"); // denna rad vill inte funka
+>>>>>>> goodbye
 
         }
     }
