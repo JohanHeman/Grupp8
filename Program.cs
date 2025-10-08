@@ -8,11 +8,7 @@
 
             Console.WriteLine("hejdå");
 
-<<<<<<< HEAD
-=======
-            Console.WriteLine("hejdå igen!");
 
->>>>>>> goodbye
         }
     }
 }
