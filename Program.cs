@@ -8,7 +8,7 @@
 
             Console.WriteLine("hejdå");
 
-            Console.WriteLine("hejdå igen!");
+            Console.WriteLine("hejdå igen!"); // denna rad vill inte funka
 
         }
     }
